@@ -1,0 +1,61 @@
+/*CALCULADORA*/
+button{
+    margin: 3px;   
+}
+.col-4{
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-top: 100px;
+    background-color: lightblue;
+}
+/*Se hace padding a los botones para que queden del mismo tamaño*/
+#punto{
+    padding-right: 18px;
+}
+#resta{
+    padding-right: 17px;
+}
+#dividir{
+    padding-right: 15px;
+}
+#multiplicar{
+    padding-right: 14px;
+}
+#operacion{
+    margin-right: 15px;
+    color: black;
+}
+#borrar{
+    margin-right: 36px;
+    padding-left: 73px;
+    padding-right: 73px;
+}
+#visor{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid grey;
+}
+/*HISTORIA*/
+#historia{
+    border: 2px solid grey;
+    background-color: whitesmoke;
+    border-radius: 0 20px 20px 0;
+    margin-top: 100px;
+    width: fit-content;
+    color: rgba(31, 29, 29, 0.644);
+}
+ul{
+    margin-bottom: 0px;
+}
+li{
+    padding-right: 6px;
+}
+h4{
+    margin-bottom: 0px;
+    margin-top: 2px;
+}
+hr{
+    margin-top: 2px;
+    margin-bottom: 3px;
+    border: 1px solid;
+}
